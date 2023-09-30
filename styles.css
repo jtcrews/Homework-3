@@ -1,0 +1,108 @@
+
+
+header {
+	background-color: #333;
+	text-align: center;
+	padding: 60px;
+	font-size: 70px;
+	font-family: Copperplate, Copperplate Gothic Light;
+	color: #ebbf60;
+}
+
+body {
+	background-color: #f1f1f1;
+}
+
+.logo {
+	text-align: left;
+	height: 120px;
+	width: 120px
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #ebbf60;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 20px;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.welcome {
+	font-family: 'Brush Script MT', cursive;
+	font-size: 50px;
+}
+
+.column {
+	float: left;
+	padding: 10px;
+	height: 400px;
+}
+
+.space {
+	width: 1%
+}
+
+.ad {
+	text-align: center;
+	width: 10%;
+	background-color: #333;
+	color: #ebbf60;
+}
+
+.content {
+	width: 60%;
+	background: #f1f1f1;
+	
+}
+
+.careers {
+	width: 40%;
+	font-size: 25px;
+}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.intro {
+	font-size: 25px;
+	background-color: #f1f1f1;
+	
+}
+
+.right {
+	float: right;
+}
+
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.contact {
+	font-size: 25px;
+}
+
+.hours {
+	font-size: 20px;
+	
+}
